@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Financial Vision</title>
+    <link rel="stylesheet" href="styles/index.css"> <!-- Link para o arquivo CSS que estiliza a página -->
+    <script src="https://unpkg.com/lucide@latest"></script> <!-- Link para a biblioteca de ícones Lucide -->
+    <link rel="icon" href="img/icon.png" type="image/x-icon">
+</head>
+
+<body>
+
+    <div id="grid-container" class="grid-container">
+        <!-- Os cubos serão gerados aqui pelo JavaScript -->
+    </div>
+
+    <div class="container">
+        <h1>Take control of your company's financial future today</h1>
+        <p>Sign up for our app and start managing your finances with ease.</p>
+        <button>Get started now</button> <!-- Botão para iniciar o cadastro -->
+    </div>
+
+    <!-- Seção de Novos Recursos -->
+    <section class="features">
+        <div class="feature-grid">
+            <!-- Item de recurso com análise avançada -->
+            <div class="feature-item">
+                <i data-lucide="bar-chart-2"></i>
+                <h3>Advanced Analytics</h3>
+                <p>Get insights into your financial data with our powerful analytics tools.</p>
+            </div>
+            <!-- Item de recurso com transações seguras -->
+            <div class="feature-item">
+                <i data-lucide="shield"></i>
+                <h3>Secure Transactions</h3>
+                <p>Your financial data is protected with state-of-the-art security measures.</p>
+            </div>
+            <!-- Item de recurso com aplicativo móvel -->
+            <div class="feature-item">
+                <i data-lucide="smartphone"></i>
+                <h3>Mobile App</h3>
+                <p>Manage your finances on-the-go with our user-friendly mobile application.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <nav class="footer-nav">
+            <div class="nav-left">
+                <a href="#" class="social-icon" aria-label="Home"><i data-lucide="pie-chart"></i></a> <!-- Ícone social -->
+            </div>
+
+            <div class="nav-center">
+                <ul class="footer-menu">
+                    <!-- Links do menu do rodapé -->
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#pricing">Pricing</a></li>
+                    <li><a href="#blog">Blog</a></li>
+                </ul>
+            </div>
+
+            <div class="nav-right">
+                <ul class="social-links">
+                    <!-- Links para as redes sociais -->
+                    <li><a href="https://www.linkedin.com/in/ricardo-andreotti-gonçalves-0b5785283" target="_blank" class="social-icon" aria-label="LinkedIn"><i data-lucide="linkedin"></i></a></li>
+                    <li><a href="https://github.com/devAndreotti" target="_blank" class="social-icon" aria-label="GitHub"><i data-lucide="github"></i></a></li>
+                    <li><a href="https://www.instagram.com/wantakame/" target="_blank" class="social-icon" aria-label="Instagram"><i data-lucide="instagram"></i></a></li>
+                </ul>
+            </div>
+        </nav>
+
+        <div class="footer-bottom">
+            <div class="footer-line"></div> <!-- Linha separadora no rodapé -->
+            <p class="copyright">&copy; 2024. All rights reserved.</p> <!-- Direitos autorais -->
+        </div>
+    </footer>
+
+    <script>
+        lucide.createIcons();
+    </script>
+    <script src="js/grid.js"></script>
+    <script src="js/floating-circles.js"></script>
+
+</body>
+</html>
