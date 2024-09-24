@@ -1,4 +1,4 @@
-# 🌟 **Financial Vision**
+# 🧪 **Financial Vision**
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/devAndreotti/financial-vision?color=FFF&labelColor=085216&style=flat-square">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/devAndreotti/financial-vision?color=FFF&labelColor=085216&style=flat-square">
@@ -12,13 +12,17 @@
 ## 📋 **Sobre o Projeto**
 Financial Vision é uma landing page moderna e dinâmica para uma aplicação de gestão financeira empresarial. Desenvolvida com HTML, CSS e JavaScript, a página oferece uma experiência de usuário envolvente e responsiva.
 
-### 🔎 **Características Principais**
-| Funcionalidade                     | Descrição                                                        |
-| -----------------------------------| ---------------------------------------------------------------- |
-| 🖥️ **Design Responsivo**          | Adaptável a dispositivos móveis, tablets e desktops              |
-| 🎨 **Efeitos Visuais Dinâmicos**   | Grid animado e círculos flutuantes para um visual atraente       |
-| 📊 **Seção de Recursos**           | Destaque dos principais recursos da aplicação                    |
-| 🔗 **Links de Redes Sociais**      | Integração com perfis profissionais e redes sociais              |
+## 🚀 **Como Usar**
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/devAndreotti/financial-vision.git
+   ```
+2. Abra o arquivo `index.html` no seu navegador preferido.
+
+## ⚙️Características
+- [x] Grid animado e círculos flutuantes.
+- [x] Seção de recursos interativa.
+- [x] Design responsivo.
 
 ## 🛠️ **Tecnologias Utilizadas**
 - [Lucide Icons](https://lucide.dev/) - Biblioteca de ícones modernos e personalizáveis
@@ -27,12 +31,11 @@ Financial Vision é uma landing page moderna e dinâmica para uma aplicação de
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) - Estilização avançada e efeitos visuais
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) - Estruturação do conteúdo
 
-## 🚀 **Como Usar**
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/devAndreotti/financial-vision.git
-   ```
-2. Abra o arquivo `index.html` no seu navegador preferido.
+## 📱 Demo
+<div align="center">
+  <img src="./img/home-02.png" alt="Dispositivo Móvel Home";>
+  <img src="./img/home-03.png" alt="Dispositivo Móvel Rodapé";>
+</div>
 
 ## 📂 **Estrutura do Projeto**
 ```bash
@@ -52,14 +55,6 @@ financial-vision/
 └── README.md
 ```
 
-## 🔮 Planos Futuros
-- [ ] **Otimizar performance para dispositivos móveis**.
-- [ ] **Adicionar suporte a múltiplos idiomas**.
-- [ ] **Implementar animações de scroll**.
-- [ ] **Implementar seção de preços**.
-- [ ] **Criar formulário de contato**.
-- [ ] **Adicionar página de blog**.
-
 ## 💪 Como Contribuir
 Contribuições são bem-vindas! Siga estas etapas:
 1. Faça um fork do projeto.
@@ -68,13 +63,7 @@ Contribuições são bem-vindas! Siga estas etapas:
 4. Push para a branch: `git push origin feature/nova-funcionalidade`.
 5. Abra um Pull Request.
 
-## 📱 Demo
-<div align="center">
-  <img src="./img/home-02.png" alt="Dispositivo Móvel Home" width="450";>
-  <img src="./img/home-03.png" alt="Dispositivo Móvel Rodapé" width="450";>
-</div>
-
-## 🌟 Inspiration
+## ✒️ Inspiração do Design
 <div align="center">
   <img src="./img/inspiration.png" alt="Inspiraçãoe";>
 </div>
