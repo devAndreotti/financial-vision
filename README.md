@@ -55,6 +55,11 @@ financial-vision/
 └── README.md
 ```
 
+## ✒️ Inspiração do Design
+<div align="center">
+  <img src="./img/inspiration.png" alt="Inspiraçãoe";>
+</div>
+
 ## 💪 Como Contribuir
 Contribuições são bem-vindas! Siga estas etapas:
 1. Faça um fork do projeto.
@@ -62,11 +67,6 @@ Contribuições são bem-vindas! Siga estas etapas:
 3. Faça suas alterações e commit: `git commit -m 'Adiciona nova funcionalidade'`.
 4. Push para a branch: `git push origin feature/nova-funcionalidade`.
 5. Abra um Pull Request.
-
-## ✒️ Inspiração do Design
-<div align="center">
-  <img src="./img/inspiration.png" alt="Inspiraçãoe";>
-</div>
 
 ## 📝 Nota
 Este projeto é uma demonstração de habilidades em design web e desenvolvimento front-end, focando em criar uma experiência de usuário moderna e atraente para uma aplicação financeira.
