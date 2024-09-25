@@ -1,7 +1,11 @@
+<!-- Projeto Finalizado -->
 # 🧪 **Financial Vision**
 <p align="center">
+  <!-- Contador de linguagens do GitHub -->
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/devAndreotti/financial-vision?color=FFF&labelColor=085216&style=flat-square">
+   <!-- Tamanho do repositório no GitHub -->
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/devAndreotti/financial-vision?color=FFF&labelColor=085216&style=flat-square">
+  <!-- Licença do GitHub -->
   <img alt="GitHub License" src="https://img.shields.io/github/license/devAndreotti/devAndreotti?color=FFF&labelColor=085216&style=flat-square">
 </p>
 
@@ -19,10 +23,13 @@ Financial Vision é uma landing page moderna e dinâmica para uma aplicação de
    ```
 2. Abra o arquivo `index.html` no seu navegador preferido.
 
+## 🔍 Visualize o Projeto
+Confira o projeto online através deste [link](https://devandreotti.github.io/financial-vision/).
+
 ## ⚙️Características
-- [x] Grid animado e círculos flutuantes.
 - [x] Seção de recursos interativa.
 - [x] Design responsivo.
+- [x] Grid animado.
 
 ## 🛠️ **Tecnologias Utilizadas**
 - [Lucide Icons](https://lucide.dev/) - Biblioteca de ícones modernos e personalizáveis
@@ -57,7 +64,7 @@ financial-vision/
 
 ## ✒️ Inspiração do Design
 <div align="center">
-  <img src="./img/inspiration.png" alt="Inspiraçãoe";>
+  <img src="./img/inspiration.png" alt="Inspiração";>
 </div>
 
 ## 💪 Como Contribuir
